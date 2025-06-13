@@ -1,0 +1,75 @@
+# ========================
+# Unity（ビルド・キャッシュ等）
+# ========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+Build-below/
+Builds2/
+UserSettings/
+MemoryCaptures/
+*.unityproj
+*.suo
+*.user
+*.csproj
+*.sln
+*.vsconfig
+.vs/
+.vscode/
+
+# ビルド成果物
+*.apk
+*.aab
+*.exe
+*.dll
+*.pdb
+*.resS
+*.dat
+*.assets
+*.bin
+*.zip
+*.appx
+*.appxupload
+*.ipa
+*.msi
+*.nupkg
+
+# Unityパッケージ
+*.unitypackage
+
+# ========================
+# Python・Boost 関連
+# ========================
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Boostヘッダ・ライブラリ
+python/include/boost-*/
+python/lib/
+*.lib
+*.tgz
+
+# 学習ログ・モデル出力
+python/runs/
+python/runs/detect/train3/weights/
+python/log/
+python/result.*
+python/output/
+python/*.csv
+
+# Jupyter関連
+python/.ipynb_checkpoints/
+
+# ========================
+# OS・IDE関連
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# その他
+# ========================
+*.db
