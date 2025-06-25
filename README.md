@@ -2,4 +2,6 @@
 
 YouTube上にデモ動画を公開しています。
 
-▶️ [HoloMahjong デモ動画](https://youtu.be/Rpbuyl1Ba7Y)
+[![HoloMahjong Demo](https://img.youtube.com/vi/Rpbuyl1Ba7Y/0.jpg)](https://www.youtube.com/watch?v=Rpbuyl1Ba7Y)
+
+↑ 画像をクリックすると、YouTubeでデモ動画を再生できます。
